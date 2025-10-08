@@ -22,7 +22,7 @@
 
 <h2>Summer 2025 Research Report</h2>
 
- - [READ HERE](https://github.com/owen3522/Temperature-and-Humidity-Monitoring-at-the-Lowe-Art-Museum/blob/ac0d6abcfff4048280f452674492306b0cde2455/Temperature%20and%20Humidity%20Monitoring%20at%20the%20Lowe%20Art%20Museum.pdf)
+ - [READ HERE](https://github.com/owen3522/LIG-Research/blob/main/Owen%20Duffy%20Summer%20Research%20Report_Final.pdf)
 
 <h2>Fall 2025 Research Progress: Ongoing</h2>
 
