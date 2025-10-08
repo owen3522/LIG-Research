@@ -27,3 +27,8 @@
 <h2>Fall 2025 Research Progress: Ongoing</h2>
 
 - <b>Last Updated: 10/08/2025</b>
+<p align="center">
+Raster Engraving of University of Miami "U" Logo on polyimide<br/>
+<img src="https://i.postimg.cc/hj4HLkvR/IMG-6887.jpg" height=80% width=80%/>
+<br />
+<br />
