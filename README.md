@@ -34,12 +34,9 @@ Raster Engraving of University of Miami "U" Logo on polyimide<br/>
 <img src="https://i.postimg.cc/hj4HLkvR/IMG-6887.jpg" height=80% width=80%/>
 <br />
 <br />
-Presenting my research at the College Of Engineering Research Symposium<br/>
-<img src="https://i.postimg.cc/hj4HLkvR/IMG-6887.jpg" height=80% width=80%/>
-<img src="https://i.postimg.cc/hj4HLkvR/IMG-6887.jpg" height=80% width=80%/>
+Presenting my research at the College of Engineering Research Symposium<br/>
+<img src="https://i.postimg.cc/kXfrvdNm/Presenting-Symposium.jpg" height=80% width=80%/>
+<img src="https://i.postimg.cc/DzQP17sq/Research-Symposium.jpg" height=80% width=80%/>
 <br />
 <br />
-Research Symposium Poster<br/>
-<img src="https://i.postimg.cc/hj4HLkvR/IMG-6887.jpg" height=80% width=80%/>
-<br />
-<br />
+
