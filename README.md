@@ -26,7 +26,7 @@
 
 <h2>Fall 2025 Research Progress: Ongoing</h2>
 
-- <b>College of Engineering Research Symposium Poster [VIEW HERE](https://github.com/owen3522/LIG-Research/blob/main/Owen%20Duffy%20Research%20Symposium%20Poster.jpg)
+- <b>College of Engineering Research Symposium Poster</b> [VIEW HERE](https://github.com/owen3522/LIG-Research/blob/main/Owen%20Duffy%20Research%20Symposium%20Poster.jpg)
 
 - <b>Last Updated: 11/06/2025</b>
 <p align="center">
