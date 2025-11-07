@@ -26,7 +26,9 @@
 
 <h2>Fall 2025 Research Progress: Ongoing</h2>
 
-- <b>Last Updated: 10/08/2025</b>
+- <b>College of Engineering Research Symposium Poster [VIEW HERE](https://github.com/owen3522/LIG-Research/blob/main/Owen%20Duffy%20Research%20Symposium%20Poster.jpg)
+
+- <b>Last Updated: 11/06/2025</b>
 <p align="center">
 Raster Engraving of University of Miami "U" Logo on polyimide<br/>
 <img src="https://i.postimg.cc/hj4HLkvR/IMG-6887.jpg" height=80% width=80%/>
